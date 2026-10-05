@@ -1,0 +1,47 @@
+# Postman API Testing
+
+This repository contains examples and documentation of API testing performed using Postman.
+
+## API Testing Skills
+
+* GET
+* POST
+* PUT
+* PATCH
+* DELETE
+* Request Headers
+* Query Parameters
+* Path Parameters
+* Request Body
+* Authentication
+* Response Validation
+* Status Code Validation
+* Positive Testing
+* Negative Testing
+
+## HTTP Status Codes
+
+* 200 — OK
+* 201 — Created
+* 400 — Bad Request
+* 401 — Unauthorized
+* 403 — Forbidden
+* 404 — Not Found
+* 500 — Internal Server Error
+
+## Testing Approach
+
+I validate API requests and responses by checking status codes, response body, response time, headers, and expected results.
+
+## Tools
+
+* Postman
+* JavaScript
+* REST APIs
+
+## Portfolio Contents
+
+* API test cases
+* Positive and negative test scenarios
+* Postman collections
+* API validation examples
